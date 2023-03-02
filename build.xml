@@ -19,7 +19,7 @@
 
 <installPackage namespace="clcommon" version="4.0000" username="${sf.username}" password="${sf.password}" serverurl="${sf.serverurl}"/>
 <installPackage namespace="mfiflexUtil" version="6.2000" username="${sf.username}" password="${sf.password}" serverurl="${sf.serverurl}"/>
-<installPackage namespace="build3" version="3.0000" username="${sf.username}" password="${sf.password}" serverurl="${sf.serverurl}"/>	
+<installPackage namespace="integration dataModel" version="3.0000" username="${sf.username}" password="${sf.password}" serverurl="${sf.serverurl}"/>	
 	
 
 
