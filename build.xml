@@ -18,6 +18,7 @@
 </taskdef>
 <installPackage namespace="clcommon" version="3.6005" username="${sf.username}" password="${sf.password}" serverurl="${sf.serverurl}"/>
 <installPackage namespace="notification framework" version="2.0000" username="${sf.username}" password="${sf.password}" serverurl="${sf.serverurl}"/>	
+<installPackage namespace="mfiflexUtil" version="8.0000" username="${sf.username}" password="${sf.password}" serverurl="${sf.serverurl}"/>	
 <installPackage namespace="integration framework" version="1.0000" username="${sf.username}" password="${sf.password}" serverurl="${sf.serverurl}"/>
 
 </project>
